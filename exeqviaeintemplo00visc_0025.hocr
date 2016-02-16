@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./exeqviaeintemplo00visc_0025.png"; bbox 0 0 2404 3355; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 280 196 1806 531">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1651 196 1720 238">
+     <span class='ocr_line' id='line_1_1' title="bbox 1651 196 1720 238; baseline 0.029 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1651 196 1720 238; x_wconf 60' lang='grc' dir='ltr'>ιν</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 280 263 1806 531">
+     <span class='ocr_line' id='line_1_2' title="bbox 377 263 1806 369; baseline -0.011 -24"><span class='ocrx_word' id='word_1_2' title='bbox 377 282 672 369; x_wconf 72' lang='lat' dir='ltr'>Reliquas</span> <span class='ocrx_word' id='word_1_3' title='bbox 711 275 934 351; x_wconf 11' lang='lat' dir='ltr'>factie‘S,</span> <span class='ocrx_word' id='word_1_4' title='bbox 981 293 1162 363; x_wconf 54' lang='lat' dir='ltr'>{tque</span> <span class='ocrx_word' id='word_1_5' title='bbox 1210 269 1474 334; x_wconf 80' lang='lat' dir='ltr'>infimum</span> <span class='ocrx_word' id='word_1_6' title='bbox 1520 263 1806 351; x_wconf 46' lang='lat' dir='ltr'>sustenta*</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 281 363 1802 454; baseline -0.012 -15"><span class='ocrx_word' id='word_1_7' title='bbox 281 395 548 438; x_wconf 79' lang='lat' dir='ltr'>mentum</span> <span class='ocrx_word' id='word_1_8' title='bbox 586 369 877 454; x_wconf 58' lang='lat' dir='ltr'>gentilitus</span> <span class='ocrx_word' id='word_1_9' title='bbox 928 363 1245 427; x_wconf 55' lang='lat' dir='ltr'>ster-{mnata</span> <span class='ocrx_word' id='word_1_10' title='bbox 1268 406 1286 440; x_wconf 84' lang='lat'>,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1317 367 1603 449; x_wconf 70' lang='lat' dir='ltr'>eaeteraq3</span> <span class='ocrx_word' id='word_1_12' title='bbox 1633 377 1802 435; x_wconf 74' lang='lat' dir='ltr'>ana·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 280 451 1540 531; baseline -0.014 1"><span class='ocrx_word' id='word_1_13' title='bbox 280 485 480 531; x_wconf 81' lang='lat' dir='ltr'>menta</span> <span class='ocrx_word' id='word_1_14' title='bbox 514 460 784 526; x_wconf 69' lang='lat' dir='ltr'>funebrza</span> <span class='ocrx_word' id='word_1_15' title='bbox 816 460 1172 523; x_wconf 73' lang='lat' dir='ltr'>vestxebaut.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1306 474 1309 477; x_wconf 88' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1536 451 1540 455; x_wconf 74' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 468 762 1662 1639">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 468 762 1662 1639">
+     <span class='ocr_line' id='line_1_5' title="bbox 468 762 1662 1639; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 468 762 1662 1639; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1568 2749 1768 2834">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1568 2749 1768 2834">
+     <span class='ocr_line' id='line_1_6' title="bbox 1568 2749 1768 2834; baseline -0.03 -23"><span class='ocrx_word' id='word_1_19' title='bbox 1568 2749 1768 2834; x_wconf 54' lang='grc' dir='ltr'>Ἑᾱξ,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
